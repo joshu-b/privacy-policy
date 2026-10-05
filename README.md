@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Effective Date:** October 5, 2026
-
 ## Overview
 This application is a personal, non-commercial tool.
 
